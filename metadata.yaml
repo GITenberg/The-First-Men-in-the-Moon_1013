@@ -1,0 +1,61 @@
+_repo: The-First-Men-in-the-Moon_1013
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "The First Men in the Moon is a scientific romance published in 1901\
+  \ by the English author H. G. Wells, who called it one of his \"fantastic stories\"\
+  . The novel tells the story of a journey to the moon undertaken by the two protagonists,\
+  \ a businessman narrator, Mr. Bedford, and an eccentric scientist, Mr. Cavor. Bedford\
+  \ and Cavor discover that the moon is inhabited by a sophisticated extraterrestrial\
+  \ civilization of insect-like creatures they call \"Selenites\".\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf:
+- Science Fiction
+- Movie Books
+gutenberg_issued: '2004-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1013'
+  wikidata: Q1218232
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Imperialism -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Moon -- Fiction'
+- !lcsh 'Utopian fiction'
+- !lcsh 'Satire'
+- !lcsh 'Space flight to the moon -- Fiction'
+- !lcsh 'Utopias -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The First Men in the Moon
+url: http://www.gutenberg.org/ebooks/1013
+wikipedia:
+- https://fi.wikipedia.org/wiki/Ensimm%C3%A4iset_ihmiset_kuussa
+- https://fr.wikipedia.org/wiki/Les_Premiers_Hommes_dans_la_Lune
+- https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D8%A7%D8%A6%D9%84_%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D9%84_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D9%82%D9%85%D8%B1
+- https://nl.wikipedia.org/wiki/De_eerste_mensen_op_de_maan
+- https://ja.wikipedia.org/wiki/%E6%9C%88%E4%B8%96%E7%95%8C%E6%9C%80%E5%88%9D%E3%81%AE%E4%BA%BA%E9%96%93
+- https://pl.wikipedia.org/wiki/Pierwsi_ludzie_na_ksi%C4%99%C5%BCycu
+- https://cs.wikipedia.org/wiki/Prvn%C3%AD_lid%C3%A9_na_M%C4%9Bs%C3%ADci
+- https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%88%D1%96_%D0%BB%D1%8E%D0%B4%D0%B8_%D0%BD%D0%B0_%D0%9C%D1%96%D1%81%D1%8F%D1%86%D1%96
+- https://de.wikipedia.org/wiki/Die_ersten_Menschen_auf_dem_Mond
+- https://es.wikipedia.org/wiki/Los_primeros_hombres_en_la_Luna
+- https://sk.wikipedia.org/wiki/Prv%C3%AD_%C4%BEudia_na_Mesiaci
+- https://vi.wikipedia.org/wiki/Ti%C3%AAn_phong_l%C3%AAn_M%E1%BA%B7t_Tr%C4%83ng
+- https://en.wikipedia.org/wiki/The_First_Men_in_the_Moon
+- https://it.wikipedia.org/wiki/I_primi_uomini_sulla_Luna
+- https://ru.wikiquote.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B5_%D0%BB%D1%8E%D0%B4%D0%B8_%D0%BD%D0%B0_%D0%9B%D1%83%D0%BD%D0%B5
+- https://zh.wikipedia.org/wiki/%E6%9C%88%E7%90%83%E4%B8%8A%E6%9C%80%E6%97%A9%E7%9A%84%E4%BA%BA%E7%B1%BB
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B5_%D0%BB%D1%8E%D0%B4%D0%B8_%D0%BD%D0%B0_%D0%9B%D1%83%D0%BD%D0%B5_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ro.wikipedia.org/wiki/Primii_oameni_%C3%AEn_Lun%C4%83
