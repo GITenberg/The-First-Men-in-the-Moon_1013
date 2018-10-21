@@ -11,6 +11,7 @@ Title: The First Men In The Moon
 Author: H. G. Wells
 
 Release Date: October 20, 2004 [EBook #1013]
+Last updated: July 13, 2016
 
 Language: English
 
@@ -760,7 +761,7 @@ course, but don't you think they will regard it as a cyclone?"
 "But the explosion--"
 
 "It was not an explosion. It's perfectly simple. Only, as I say, I'm apt
-to overlook these little things. Its that zuzzoo business on a larger
+to overlook these little things. It's that zuzzoo business on a larger
 scale. Inadvertently I made this substance of mine, this Cavorite, in a
 thin, wide sheet...."
 
@@ -1185,7 +1186,7 @@ you in the sphere."
 I met all his protests with a sullen persistence. "The thing's too mad,"
 I said, "and I won't come. The thing's too mad."
 
-I would not go with him to the laboratory. I fretted bout my bungalow for
+I would not go with him to the laboratory. I fretted about my bungalow for
 a time, and then took hat and stick and set out alone, I knew not whither.
 It chanced to be a glorious morning: a warm wind and deep blue sky, the
 first green of spring abroad, and multitudes of birds singing. I lunched
@@ -1545,7 +1546,7 @@ having no earthly parallel. That is the most probable thing, if we are to
 find life there at all. Think of the difference in conditions! Life must
 fit itself to a day as long as fourteen earthly days, a cloudless
 sun-blaze of fourteen days, and then a night of equal length, growing
-ever colder and colder under these, cold, sharp stars. In that night
+ever colder and colder under these cold, sharp stars. In that night
 there must be cold, the ultimate cold, absolute zero, 273 degrees
 Centigrade, below the earthly freezing point. Whatever life there is
 must hibernate through that, and rise again each day."
